@@ -45,7 +45,7 @@ run\_analysis.R
 -   Transform `actlabels` to lowercase and use to replace values of
     `Activity`
 
-### **5. Clean up columnn names**
+### **5. Clean up column names**
 
 -   Replace `^t` with `Time`
 -   Replace `^f` with `Frequency`
