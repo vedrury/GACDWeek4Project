@@ -15,7 +15,7 @@ Files
 
 -   **codebook.md**: describes the variables, data, and any
     transformations or work performed to clean up the data
--   **`run\_analysis.R`**: script that performs the following, as
+-   **`run_analysis.R`**: script that performs the following, as
     established by the project rubric:
     1.  Merges the training and the test sets to create one data set.
     2.  Extracts only the measurements on the mean and standard
