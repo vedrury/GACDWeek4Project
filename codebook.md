@@ -45,7 +45,7 @@ run\_analysis.R
 -   Transform `actlabels` to lowercase and use to replace values of
     `Activity`
 
-### **4. Clean up columnn names**
+### **5. Clean up columnn names**
 
 -   Replace `^t` with `Time`
 -   Replace `^f` with `Frequency`
@@ -59,7 +59,7 @@ run\_analysis.R
 -   Replace `angle` with `Angle`
 -   Replace `tBody` with `TimeBody`
 
-### **5. Write final tidy dataset, grouped by Subject, Activity, with mean of all mean and std variables**
+### **6. Write final tidy dataset, grouped by Subject, Activity, with mean of all mean and std variables**
 
 -   Create `finaltidy` using dplyr’s `group_by` and `summarize_all`
     functions
