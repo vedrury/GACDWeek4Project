@@ -63,10 +63,10 @@ was used. From each window, a vector of features was obtained by
 calculating variables from the time and frequency domain. See
 ‘features\_info.txt’ for more details.
 
-For each record it is provided: - Triaxial acceleration from the
+For each record it is provided: + Triaxial acceleration from the
 accelerometer (total acceleration) and the estimated body acceleration.
-- Triaxial Angular velocity from the gyroscope. - A 561-feature vector
-with time and frequency domain variables. - Its activity label. - An
++ Triaxial Angular velocity from the gyroscope. + A 561-feature vector
+with time and frequency domain variables. + Its activity label. + An
 identifier of the subject who carried out the experiment.
 
 The dataset includes the following files:
@@ -110,7 +110,7 @@ descriptions are equivalent.
     velocity vector measured by the gyroscope for each window sample.
     The units are radians/second.
 
-Notes: - Features are normalized and bounded within \[-1,1\]. - Each
+Notes: + Features are normalized and bounded within \[-1,1\]. + Each
 feature vector is a row on the text file.
 
 For more information about this dataset contact:
